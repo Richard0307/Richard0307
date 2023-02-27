@@ -1,12 +1,9 @@
 ### Hi there 👋
 I'm Richard,a Cybersecurity learner.   
- 🚀I’m currently working on  ![](https://img.shields.io/badge/-Parrot-lightg)  
- 🌱I’m currently learning ![](https://img.shields.io/badge/-Ruby-red).    
- 👯 I’m looking to collaborate on ...    
- 🤔 I’m looking for help with ...  
- 💬 Ask me about ...  
- 📫 How to reach me: ...  
- 😄 Pronouns: ...  
- ⚡ Fun fact: ..
+ 🚀I’m use daily:  ![](https://img.shields.io/badge/-Parrot-lightg)![](https://img.shields.io/badge/-C%2B%2B-blue)![](https://img.shields.io/badge/-Python-darkblue).  
+ ⚙️ I’m also use and work![](https://img.shields.io/badge/-Java-orange)   
+ 🌱I’m currently learning ![](https://img.shields.io/badge/-Ruby-red)![](https://img.shields.io/badge/-JavaScript-yellow).     
+ 📫 How to reach me: richardhu0307@gmail.com  
+
 
 
