@@ -29,14 +29,6 @@ Intellectual curiosity drives me to explore the intersection of **Continual Lear
 - **Interests:** Model Quantization, Continual Learning (CIL), Robotics.
 
 ---
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard0307&show_icons=true&theme=transparent&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard0307&layout=compact&theme=transparent&v=1)
-
----
-
 ### 📫 Contact Me
 - **Email:**  qingquanhu@outlook.com
 
