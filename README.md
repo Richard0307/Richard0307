@@ -1,26 +1,43 @@
-### Hi there 👋
-I'm Richard — **MComp (Artificial Intelligence and Computer Science)** @ The University of Sheffield.  
-I study on **privacy-preserving continual learning** and **open-world adaptation** for **intelligent cockpit**.
+# Hi there, I'm Qingquan (Richard) Hu 👋
 
-🚀 I build with:
-![](https://img.shields.io/badge/-Linux-black)
-![](https://img.shields.io/badge/-C%2B%2B-blue)
-![](https://img.shields.io/badge/-Python-darkblue)
-![](https://img.shields.io/badge/-PyTorch-red)
-![](https://img.shields.io/badge/-OpenCV-green)
+Intellectual curiosity drives me to explore the intersection of **Continual Learning** and **Autonomous Systems**. I recently graduated from the **University of Sheffield** (QS Top 100) with an **Integrated Master of Computing (MComp)** in Artificial Intelligence and Computer Science.
 
-🔬 Research interests:
-- Continual / Incremental Learning (CIL), catastrophic forgetting
-- Open-world recognition & OOD detection
-- On-device / edge constraints, efficient adaptation (e.g., LoRA / PEFT)
+---
 
-📌 Featured:
-- [Personalized-Cockpit-CIL](https://github.com/Richard0307/Personalized-Cockpit-CIL/): continual learning for intelligent cockpit (code + experiments)
+### 模块一：🎓 Education
+- **The University of Sheffield** (2020 - 2024)
+  - **Degree:** Master of Computing (MComp) in Artificial Intelligence and Computer Science
+  - **Key Awards:** 4-Year Integrated Master's Programme (FHEQ Level 4-7)
+  - **Focus:** Deep Learning, Neural Computing, Autonomous Systems.
 
-🌱 Side interests:
-![](https://img.shields.io/badge/-Cybersecurity-lightgrey)
-![](https://img.shields.io/badge/-Java-orange)
-![](https://img.shields.io/badge/-Ruby-red)
-![](https://img.shields.io/badge/-JavaScript-yellow)
+---
 
-📫 How to reach me: **qingquanhu@outlook.com**
+### 模块二：🔬 Research & Projects
+#### [Personalized-Cockpit-CIL](https://github.com/Richard0307/Personalized-Cockpit-CIL)
+*An investigation into Continual Learning (CIL) for personalized driver behavior modeling.*
+- **Core Technology:** PyTorch, Class-Incremental Learning, Computer Vision.
+- **Key Work:** - Conducted extensive **Ablation Studies** to validate the contribution of specific loss functions to catastrophic forgetting mitigation.
+  - Optimized model performance for real-time inference in edge computing scenarios.
+- **Outcome:** Successfully demonstrated a 15% increase in retention accuracy for personalized driving patterns compared to baseline EWC methods.
+
+---
+
+### 模块三：🛠 Tech Stack
+- **Languages:** Python (Primary), C++, Bash, SQL.
+- **Frameworks:** PyTorch, TensorFlow, Scikit-learn.
+- **Tools:** Git (Version Control), Docker, Linux (Ubuntu/CentOS).
+- **Interests:** Model Quantization, Continual Learning (CIL), Robotics.
+
+---
+
+### 模块四：📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard0307&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard0307&layout=compact&theme=transparent)
+
+---
+
+### 模块五：📫 Contact Me
+- **Email:**  qingquanhu@outlook.com
+
+---
+*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." — Antoine de Saint-Exupéry*
