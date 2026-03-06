@@ -4,7 +4,7 @@ Intellectual curiosity drives me to explore the intersection of **Continual Lear
 
 ---
 
-### 模块一：🎓 Education
+### 🎓 Education
 - **The University of Sheffield** (2020 - 2024)
   - **Degree:** Master of Computing (MComp) in Artificial Intelligence and Computer Science
   - **Key Awards:** 4-Year Integrated Master's Programme (FHEQ Level 4-7)
@@ -12,7 +12,7 @@ Intellectual curiosity drives me to explore the intersection of **Continual Lear
 
 ---
 
-### 模块二：🔬 Research & Projects
+### 🔬 Research & Projects
 #### [Personalized-Cockpit-CIL](https://github.com/Richard0307/Personalized-Cockpit-CIL)
 *An investigation into Continual Learning (CIL) for personalized driver behavior modeling.*
 - **Core Technology:** PyTorch, Class-Incremental Learning, Computer Vision.
@@ -22,7 +22,7 @@ Intellectual curiosity drives me to explore the intersection of **Continual Lear
 
 ---
 
-### 模块三：🛠 Tech Stack
+### 🛠 Tech Stack
 - **Languages:** Python (Primary), C++, Bash, SQL.
 - **Frameworks:** PyTorch, TensorFlow, Scikit-learn.
 - **Tools:** Git (Version Control), Docker, Linux (Ubuntu/CentOS).
@@ -30,13 +30,13 @@ Intellectual curiosity drives me to explore the intersection of **Continual Lear
 
 ---
 
-### 模块四：📊 GitHub Stats
+### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard0307&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard0307&layout=compact&theme=transparent)
 
 ---
 
-### 模块五：📫 Contact Me
+### 📫 Contact Me
 - **Email:**  qingquanhu@outlook.com
 
 ---
