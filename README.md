@@ -12,16 +12,6 @@ Intellectual curiosity drives me to explore the intersection of **Continual Lear
 
 ---
 
-### 🔬 Research & Projects
-#### [Personalized-Cockpit-CIL](https://github.com/Richard0307/Personalized-Cockpit-CIL)
-*An investigation into Continual Learning (CIL) for personalized driver behavior modeling.*
-- **Core Technology:** PyTorch, Class-Incremental Learning, Computer Vision.
-- **Key Work:** - Conducted extensive **Ablation Studies** to validate the contribution of specific loss functions to catastrophic forgetting mitigation.
-  - Optimized model performance for real-time inference in edge computing scenarios.
-- **Outcome:** Successfully demonstrated a 15% increase in retention accuracy for personalized driving patterns compared to baseline EWC methods.
-
----
-
 ### 🛠 Tech Stack
 - **Languages:** Python (Primary), C++, Bash, SQL.
 - **Frameworks:** PyTorch, TensorFlow, Scikit-learn.
@@ -31,6 +21,3 @@ Intellectual curiosity drives me to explore the intersection of **Continual Lear
 ---
 ### 📫 Contact Me
 - **Email:**  qingquanhu@outlook.com
-
----
-*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." — Antoine de Saint-Exupéry*
