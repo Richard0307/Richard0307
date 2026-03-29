@@ -1,21 +1,21 @@
 # Hi there, I'm Qingquan (Richard) HU 👋
 
-Intellectual curiosity drives me to explore the intersection of **Continual Learning** and **Autonomous Systems**. I graduated from the **University of Sheffield** (QS Top 100) with an **Integrated Master of Computing (MComp)** in Artificial Intelligence and Computer Science.
+Intellectual curiosity drives me to explore the intersection of **Continual Learning** and **Autonomous Systems**. I graduated from the **University of Sheffield**  with an **Integrated Master of Computing (MComp)** in Artificial Intelligence and Computer Science.
 
 ---
 
 ### 🎓 Education
 - **The University of Sheffield** (2020 - 2024)
-  - **Degree:** Master of Computing (MComp) in Artificial Intelligence and Computer Science
-  - **Key Awards:** 4-Year Integrated Master's Programme (FHEQ Level 4-7)
+  - **Degree:** Master of Computing in Artificial Intelligence and Computer Science
+  - **Key Awards:** 4-Year Integrated Master's Programme
   - **Focus:** Deep Learning, Neural Computing, Autonomous Systems.
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Python (Primary), C++, Bash, SQL.
+- **Languages:** Python, C++, Bash, SQL.
 - **Frameworks:** PyTorch, TensorFlow, Scikit-learn.
-- **Tools:** Git (Version Control), Docker, Linux (Ubuntu/CentOS).
+- **Tools:** Git, Docker, Linux.
 - **Interests:** Model Quantization, Continual Learning (CIL), Robotics.
 
 ---
