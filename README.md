@@ -1,6 +1,6 @@
 # Hi there, I'm Qingquan (Richard) HU 👋
 
-Intellectual curiosity drives me to explore the intersection of **Continual Learning** and **Autonomous Systems**. I graduated from the **University of Sheffield**  with an **Integrated Master of Computing (MComp)** in Artificial Intelligence and Computer Science.
+Intellectual curiosity drives me to explore the intersection of **LLM Application and Infer** and **Computer Vision**. I graduated from the **University of Sheffield**  with an **Integrated Master of Computing (MComp)** in Artificial Intelligence and Computer Science.
 
 ---
 
