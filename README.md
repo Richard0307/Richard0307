@@ -1,10 +1,10 @@
-# Hi there, I'm Qingquan (Richard) HU 👋
+# Hi there, I'm Richard
 
 Intellectual curiosity drives me to explore the intersection of **LLM Application and Infer** and **Computer Vision**. I graduated from the **University of Sheffield**  with an **Integrated Master of Computing (MComp)** in Artificial Intelligence and Computer Science.
 
 ---
 
-### 🎓 Education
+### Education
 - **The University of Sheffield** (2020 - 2024)
   - **Degree:** Master of Computing in Artificial Intelligence and Computer Science
   - **Key Awards:** 4-Year Integrated Master's Programme
@@ -12,12 +12,12 @@ Intellectual curiosity drives me to explore the intersection of **LLM Applicatio
 
 ---
 
-### 🛠 Tech Stack
-- **Languages:** Python, C++, Bash, SQL.
+### Tech Stack
+- **Languages:** Python, C++, Linux, SQL.
 - **Frameworks:** PyTorch, TensorFlow, Scikit-learn.
 - **Tools:** Git, Docker, Linux.
-- **Interests:** Model Quantization, Continual Learning (CIL), Robotics.
+- **Interests:** LLM inference , Model Quantization, Continual Learning (CIL), Robotics.
 
 ---
-### 📫 Contact Me
+### Contact Me
 - **Email:**  qingquanhu@outlook.com
