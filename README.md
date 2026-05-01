@@ -13,7 +13,7 @@ Intellectual curiosity drives me to explore the intersection of **LLM Applicatio
 ---
 
 ### Tech Stack
-- **Languages:** Python, C++, Linux, SQL, JavaScript, React, Vite
+- **Languages:** Python, C++, Linux, Java, JavaScript.
 - **Frameworks:** PyTorch, TensorFlow, Scikit-learn.
 - **Tools:** Git, Docker, Linux.
 - **Interests:** LLM inference , Model Quantization, Continual Learning (CIL), Robotics.
